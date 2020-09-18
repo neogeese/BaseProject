@@ -1,0 +1,20 @@
+{
+	"friends": {
+		"michael": [
+			"tobby",
+			"cory",
+			"cain"
+		],
+		"tobby": [
+			"michael",
+			"cory"
+		],
+		"tony": [
+			"sarah",
+			"john"
+		],
+		"gump": [
+			0
+		]
+	}
+}

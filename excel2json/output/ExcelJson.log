@@ -1,0 +1,14 @@
+
+Loading: C:\LectureExample\excel2json\test01.xlsx
+Parse sheet: Sheet3
+Parsing: C:\LectureExample\excel2json\test01.xlsx.$$$\Sheet3.csv
+Closing: C:\LectureExample\excel2json\test01.xlsx
+------------------------------------------------------------------------------
+[test01.xlsx(Sheet3): ROW 1]
+Found object mark: '#friends{}'
+[test01.xlsx(Sheet3): ROW 1]
+ Key: $key at 1
+[test01.xlsx(Sheet3): ROW 1]
+ Key: $value[] at 2
+Parsing Simple Table...
+Using key index: 1 value index: 2
